@@ -82,8 +82,8 @@ div {
 
 span {
 	text-decoration: underline;
-	text-transform: uppercase;
 	display: inline-block;
+	text-transform: uppercase;
 	text-shadow: none;
 }
 
